@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/Ik3nna/E-Commerce.git
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -61,7 +61,7 @@ This project is a single page commerce website with just one item. I would love 
 ## Author
 
 - Twitter - [@_Ik3nna](https://www.twitter.com/_Ik3nna)
--linkedIn - 
+-linkedIn - https://www.linkedin.com/in/ikenna-ndukwu-996021177
 
 ## Acknowledgments
 
