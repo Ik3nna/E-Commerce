@@ -32,13 +32,9 @@ Users should be able to:
 
 ![Desktop view](https://user-images.githubusercontent.com/101594456/187399226-0163d08e-64e4-473f-a9b2-1f6aea3a8477.png)
 
-![](./screenshot.jpg)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
+![Mobile view](https://user-images.githubusercontent.com/101594456/187399391-a28b1535-74c3-4c5b-80e0-d1095eb53840.png)
 
 ### Links
 
