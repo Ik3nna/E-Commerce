@@ -39,7 +39,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/Ik3nna/E-Commerce.git
-- Live Site URL: http://e-commerce-ik3nna.vercel.app/
+- Live Site URL: https://e-commerce-coral-three.vercel.app/
 
 ## My process
 
